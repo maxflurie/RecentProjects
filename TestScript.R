@@ -1,3 +1,3 @@
 #Test Script
-#10/7/20
+#October, 7, 2020
 #Max Flurie
